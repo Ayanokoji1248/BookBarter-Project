@@ -1,0 +1,62 @@
+const users = [
+  {
+    fullName: "Emma Johnson",
+    email: "emma.j@bookbarter.com",
+    password: "Password123!",
+    profilePic: "https://example.com/profiles/emma_j.jpg"
+  },
+  {
+    fullName: "Carlos Ruiz",
+    email: "carlos.ruiz@bookswap.com",
+    password: "Booklover!2023",
+    profilePic: "https://example.com/profiles/carlos_r.jpg"
+  },
+  {
+    fullName: "Priya Patel",
+    email: "priya.p@literaryexchange.com",
+    password: "P@geTurner99",
+    profilePic: "https://example.com/profiles/priya_p.jpg"
+  },
+  {
+    fullName: "James Tanaka",
+    email: "jtanaka@novelhub.io",
+    password: "Library$2024",
+    profilePic: "https://example.com/profiles/james_t.jpg"
+  },
+  {
+    fullName: "Aisha Khan",
+    email: "aisha.k@readerexchange.com",
+    password: "Ch@pterMaster1",
+    profilePic: "https://example.com/profiles/aisha_k.jpg"
+  },
+  {
+    fullName: "Marcus Chen",
+    email: "marcus.c@booktrader.com",
+    password: "NovelFan#88",
+    profilePic: "https://example.com/profiles/marcus_c.jpg"
+  },
+  {
+    fullName: "Olivia Smith",
+    email: "olivia.s@pageexchange.org",
+    password: "Read3r$Pass",
+    profilePic: "https://example.com/profiles/olivia_s.jpg"
+  },
+  {
+    fullName: "Kwame Nkrumah",
+    email: "kwame.n@afrolit.com",
+    password: "B00kB@rter",
+    profilePic: "https://example.com/profiles/kwame_n.jpg"
+  },
+  {
+    fullName: "Sophie Martin",
+    email: "sophie.m@frenchreads.fr",
+    password: "Par!s2023Books",
+    profilePic: "https://example.com/profiles/sophie_m.jpg"
+  },
+  {
+    fullName: "Kenji Sato",
+    email: "kenji.s@mangaswap.jp",
+    password: "An!meTrad3r",
+    profilePic: "https://example.com/profiles/kenji_s.jpg"
+  }
+];
